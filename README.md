@@ -33,7 +33,9 @@ G丢枪
 
 移动速度较大时开火或持续开火会导致较大的弹道扩散。
 
-
+content文件的存放位置
+链接：https://pan.quark.cn/s/886398bf04f3
+提取码：Wrr6
 
 A FPS game practice demo created using UE5.5, for a C++ project.
 
